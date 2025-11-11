@@ -1,5 +1,5 @@
 import './globals.css';
-import type { Metadata } from 'next';
+import '../styles/globals.css';
 import { Inter, Source_Sans_3 } from 'next/font/google';
 import React from 'react';
 
